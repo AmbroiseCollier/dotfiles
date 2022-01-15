@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = collier.amb@gmail.com
+	name = Ambroise Collier
