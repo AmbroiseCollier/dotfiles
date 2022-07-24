@@ -51,4 +51,7 @@
   rebase = false
 [user]
 	email = collier.amb@gmail.com
-	name = Ambroise Collier
+	name = ambroise collier
+[credential "https://github.com"]
+	helper = 
+	helper = !/usr/bin/gh auth git-credential
